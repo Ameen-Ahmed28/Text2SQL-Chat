@@ -9,4 +9,9 @@ wheels/
 # Virtual environments
 .venv
 .env
+
+# Specific files (User defined)
 main.py
+
+# Editor/IDE settings
+.vscode/
