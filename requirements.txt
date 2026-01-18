@@ -1,0 +1,20 @@
+# Core
+python-dotenv>=1.0.1
+
+# LangChain core stack
+langchain>=0.2.14
+langchain-core>=0.2.36
+langchain-community>=0.2.14
+
+# LLM
+langchain-groq>=0.1.5
+
+# Database
+sqlalchemy>=2.0.30
+pymysql>=1.1.0
+
+# SQL validation
+sqlglot>=23.0.0
+
+#ui
+streamlit
